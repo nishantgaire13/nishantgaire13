@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Nishant Gaire,<br>an ACCA student from Kathmandu <br>who occasionally builds things that scratch my own itch, <br>mostly finance tools, trackers, reference sites.
+I'm Nishant Gaire, an ACCA student from Kathmandu who occasionally builds things that scratch my own itch, mostly finance tools, trackers, reference sites.
 
 
 ## 🌐 Socials:
